@@ -3,6 +3,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 /**
  * Stack
+ * @author Prem
  */
 public class Stack<Item> implements Iterable<Item> {
 
@@ -87,20 +88,12 @@ public class Stack<Item> implements Iterable<Item> {
             current = current.next;
             return item;
         }
-
     }
 
     public static void main(String[] args) {
         Stack<String> stack = new Stack<String>();
         Scanner sc = new Scanner(System.in);
-        // while(sc.hasNextLine()) {
-        //     String item = sc.nextLine();
-        //     if (item != "-") {
-        //         stack.push(item);
-        //     } else if(!stack.isEmpty()) {
-        //         System.out.println(stack.pop() + " ");
-        //     }
-        // }
+
         System.out.println("Stack size is : " + stack.size());
 
         System.out.println("Enter the Item to push into stack: ");
