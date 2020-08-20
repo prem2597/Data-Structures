@@ -36,7 +36,7 @@ c = -33.2103
 T (N) = a (sub)N (sup)b
 , where a = 2^c
 
-![] ( x-special/nautilus-clipboard
+![Screenshot%20from%202020-08-20%2020-40-01.png] ( x-special/nautilus-clipboard
 copy
 file:///home/prem/Desktop/Screenshot%20from%202020-08-20%2020-40-01.png
  )
