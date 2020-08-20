@@ -40,3 +40,10 @@ T (N) = a (sub)N (sup)b
 copy
 file:///home/prem/Desktop/Screenshot%20from%202020-08-20%2020-40-01.png
  )
+
+
+
+x-special/nautilus-clipboard
+copy
+file:///home/prem/Desktop/Screenshot%20from%202020-08-20%2020-40-01.png
+
