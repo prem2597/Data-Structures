@@ -1,6 +1,1 @@
-![Alt text](/home/prem/Desktop/Screenshot%20from%202020-08-20%2020-40-01.png
-?raw=true "Optional Title")
-
-<div align="center">
-    <img src="/home/prem/Desktop/Screenshot%20from%202020-08-20%2020-40-01.png" width="400px"</img> 
-</div>
+![Screenshot from 2020-08-20 22-36-25](https://user-images.githubusercontent.com/55681132/90802925-9a511b80-e335-11ea-91ca-51c923db4f64.png)
